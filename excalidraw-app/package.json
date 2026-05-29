@@ -27,17 +27,23 @@
   },
   "dependencies": {
     "@excalidraw/random-username": "1.0.0",
+    "@monaco-editor/react": "^4.7.0",
+    "monaco-editor": "^0.52.2",
     "@sentry/browser": "9.0.1",
     "callsites": "4.2.0",
     "firebase": "11.3.1",
     "i18next-browser-languagedetector": "6.1.4",
     "idb-keyval": "6.0.3",
     "jotai": "2.11.0",
+    "lucide-react": "^1.17.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "socket.io-client": "4.7.2",
     "uqr": "0.1.2",
-    "vite-plugin-html": "3.2.2"
+    "vite-plugin-html": "3.2.2",
+    "y-monaco": "^0.1.6",
+    "y-webrtc": "^10.3.0",
+    "yjs": "^13.6.31"
   },
   "prettier": "@excalidraw/prettier-config",
   "scripts": {
